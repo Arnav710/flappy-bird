@@ -1,0 +1,3 @@
+export 
+PYTHONPATH=/Users/arnav/.local/share/virtualenvs/Django-_6v7BVBN/lib/python3.11/site-packages:$PYTHONPATH
+
